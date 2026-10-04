@@ -69,7 +69,7 @@ const apiHeaders = [
   },
   {
     key: 'Access-Control-Allow-Headers',
-    value: '*',
+    value: 'Origin, X-Requested-With, Content-Type, Accept, Authorization',
   },
   {
     key: 'Access-Control-Allow-Methods',
